@@ -11,5 +11,7 @@ List of research papers and their corresponding summary and other necessary reso
 
 
 #### Self-Training:
-1. ***Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training.***[[Paper]](https://github.com/deepakksingh/paper-summaries/blob/master/unsupervised_domain_adaptation_for_semseg/Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training.pdf){:target="_blank"} [[Paper]](https://github.com/deepakksingh/paper-summaries/blob/master/unsupervised_domain_adaptation_for_semseg/Unsupervised_Domain_Adaptation_for_semseg_via_class_balanced_selftraining_summary.pdf){:target="_blank"}
+1. ***Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training.***[[Paper]](https://github.com/deepakksingh/paper-summaries/blob/master/unsupervised_domain_adaptation_for_semseg/Unsupervised_Domain_Adaptation_for_Semantic_Segmentation_via_Class_Balanced_Self_Training.pdf){:target="_blank"} [[Paper]](https://github.com/deepakksingh/paper-summaries/blob/master/unsupervised_domain_adaptation_for_semseg/Unsupervised_Domain_Adaptation_for_semseg_via_class_balanced_selftraining_summary.pdf){:target="_blank"}
+
+
 
