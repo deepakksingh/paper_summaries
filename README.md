@@ -1,8 +1,15 @@
 # Paper Summaries
 This repo consists of research paper and their corresponding summary and other necessary resources.
 
-## Semi-Supervised Learning
-- Pseudo-Label: The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks. [[Paper]](pseudo_label/pseudo_label_final.pdf)[[Summary]](pseudo_label/Pseudo-Label_summary.pdf), ICML 2013 Workshop, 259+ citations
+<!-- #### Paper Summarie -->
+List of research papers and their corresponding summary and other necessary resources.
 
-## Segmentation
-- Decoupled Deep Neural Network for Semi-Supervised Semantic Segmentation. [[Paper]](decoupled_network/decoupled-deep-neural-network-for-semi-supervised-semantic-segmentation.pdf) [[Summary]](decoupled_network/DecoupledNet.pdf)
+#### Semi-Supervised Learning:
+1. ***Pseudo-Label: The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks.*** [[Paper]](https://github.com/deepakksingh/paper_summaries/blob/master/pseudo_label/pseudo_label_final.pdf){:target="_blank"} [[Summary]](https://github.com/deepakksingh/paper_summaries/blob/master/pseudo_label/Pseudo-Label_summary.pdf){:target="_blank"}, ICML 2013 Workshop, 259+ citations
+#### Segmentation:
+1. ***Decoupled Deep Neural Network for Semi-Supervised Semantic Segmentation.*** [[Paper]](https://github.com/deepakksingh/paper_summaries/blob/master/decoupled_network/decoupled-deep-neural-network-for-semi-supervised-semantic-segmentation.pdf){:target="_blank"} [[Summary]](https://github.com/deepakksingh/paper_summaries/blob/master/decoupled_network/DecoupledNet.pdf){:target="_blank"}, NeurIPS 2015, 227+ citations
+
+
+#### Self-Training:
+1. ***Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training.***[[Paper]](https://github.com/deepakksingh/paper-summaries/blob/master/unsupervised_domain_adaptation_for_semseg/Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training.pdf){:target="_blank"} [[Paper]](https://github.com/deepakksingh/paper-summaries/blob/master/unsupervised_domain_adaptation_for_semseg/Unsupervised_Domain_Adaptation_for_semseg_via_class_balanced_selftraining_summary.pdf){:target="_blank"}
+
