@@ -6,7 +6,7 @@ List of research papers and their corresponding summary and other necessary reso
 
 #### Semi-Supervised Learning:
 1. ***Pseudo-Label: The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks.*** [[Paper]](https://github.com/deepakksingh/paper_summaries/blob/master/pseudo_label/pseudo_label_final.pdf){:target="_blank"} [[Summary]](https://github.com/deepakksingh/paper_summaries/blob/master/pseudo_label/Pseudo-Label_summary.pdf){:target="_blank"}, ICML 2013 Workshop
-2. ***Universal Semi-Supervised Semantic Segmentation*** [[Paper]](https://github.com/deepakksingh/paper_summaries/blob/master/universal_semi_supervised_semseg/universal_semi_supervised_semantic_seg_paper.pdf){:target="_blank"} [[Summary]](https://github.com/deepakksingh/paper_summaries/blob/master/universal_semi_supervised_semseg/universal_semi_supervised_semantic_seg_summary.pdf){:target="_blank"}, ICCV 2019 Workshop
+2. ***Universal Semi-Supervised Semantic Segmentation*** [[Paper]](https://github.com/deepakksingh/paper_summaries/blob/master/universal_semi_supervised_semseg/universal_semi_supervised_semantic_seg_paper.pdf){:target="_blank"} [[Summary]](https://github.com/deepakksingh/paper_summaries/blob/master/universal_semi_supervised_semseg/universal_semi_supervised_semantic_seg_summary.pdf){:target="_blank"}, ICCV 2019
 
 
 #### Segmentation:
