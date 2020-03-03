@@ -13,5 +13,9 @@ List of research papers and their corresponding summary and other necessary reso
 1. ***Decoupled Deep Neural Network for Semi-Supervised Semantic Segmentation.*** [[Paper]](https://github.com/deepakksingh/paper_summaries/blob/master/decoupled_network/decoupled-deep-neural-network-for-semi-supervised-semantic-segmentation.pdf){:target="_blank"} [[Summary]](https://github.com/deepakksingh/paper_summaries/blob/master/decoupled_network/DecoupledNet.pdf){:target="_blank"}, NeurIPS 2015
 2. ***Learning Deconvolution Network for Semantic Segmentation*** [[Paper]](https://github.com/deepakksingh/paper_summaries/blob/master/learning_deconvolution/learning_deconvolution_network_for_semantic_segmentation_paper.pdf){:target="_blank"} [[Summary]](https://github.com/deepakksingh/paper_summaries/blob/master/learning_deconvolution/learning_deconvolution_network_for_semantic_segmentation_summary.pdf){:target="_blank"}, CVPR 2015
 
+3. ***SegNet*** [[Paper]](https://github.com/deepakksingh/paper_summaries/blob/master/segnet/segnet_paper.pdf){:target="_blank"} [[Summary]](https://github.com/deepakksingh/paper_summaries/blob/master/segnet/segnet_summary.pdf){:target="_blank"}, IPAMI 2015
+
+
+
 #### Self-Training:
 1. ***Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training.***[[Paper]](https://github.com/deepakksingh/paper_summaries/blob/master/unsupervised_domain_adaptation_for_semseg/Unsupervised_Domain_Adaptation_for_Semantic_Segmentation_via_Class_Balanced_Self_Training.pdf){:target='_blank'} [[Summary]](https://github.com/deepakksingh/paper_summaries/blob/master/unsupervised_domain_adaptation_for_semseg/Unsupervised_Domain_Adaptation_for_semseg_via_class_balanced_selftraining_summary.pdf){:target="_blank"}, ECCV 2018
